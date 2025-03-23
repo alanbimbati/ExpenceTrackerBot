@@ -67,3 +67,18 @@ Per ulteriori dettagli sull'API Telegram, consulta la [documentazione ufficiale]
 
 - Il bot utilizza SQLite come database.
 - La webapp è accessibile tramite Ngrok.        
+
+
+## 🎥 Demo del Bot
+
+Per vedere il bot in azione, guarda questo video dimostrativo:
+
+[![Demo ExpenseTrackerBot](https://img.youtube.com/vi/plUabAGXgNw/0.jpg)](https://youtu.be/plUabAGXgNw)
+
+Il video mostra le principali funzionalità del bot tra cui:
+- Creazione di nuove transazioni
+- Visualizzazione del report delle spese
+- Condivisione delle transazioni con altri utenti
+- Generazione di grafici e statistiche
+- Interfaccia web per la gestione delle spese
+
